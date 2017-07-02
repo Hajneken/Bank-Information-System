@@ -8,6 +8,7 @@ The system keeps records of clients, their bank accounts including the credit, c
 
 # Technologies used
 - Java 
-- JPA
-- Swing
-- SQL (PostgreSQL)
+- JPA (ORM)
+- Swing (GUI)
+- JUnit (Testing)
+- PostgreSQL (RDMS)
